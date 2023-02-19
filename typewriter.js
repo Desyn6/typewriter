@@ -8,4 +8,4 @@ for (const char of sentence) {
   delay += 50;
 }
 
-setTimeout(() => console.log('\n'), delay);
+setTimeout(() => console.log(), delay);
